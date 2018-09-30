@@ -1,0 +1,5 @@
+C:\ImageCropByJW\SQL\bin\Debug\SQL.dll
+C:\ImageCropByJW\SQL\bin\Debug\SQL.pdb
+C:\ImageCropByJW\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\ImageCropByJW\SQL\obj\Debug\SQL.dll
+C:\ImageCropByJW\SQL\obj\Debug\SQL.pdb
